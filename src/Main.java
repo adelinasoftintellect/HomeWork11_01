@@ -19,5 +19,6 @@ public class Main {
 			System.out.print(stack.pop());
 			System.out.print(" ");
 		}
+		input.close();
 	}
 }
